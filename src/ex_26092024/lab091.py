@@ -1,0 +1,7 @@
+hero1 = ("batman","Bruce")
+hero2 = ("bat","Bru")
+new_tuple =(hero1,hero2)
+print(new_tuple)
+print(new_tuple[0])
+print(new_tuple[0][0])
+print(new_tuple[0][1])
